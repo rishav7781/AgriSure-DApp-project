@@ -1,0 +1,17 @@
+# Contract files
+*.sol linguist-language=Solidity
+
+# Scripts
+*.js linguist-language=JavaScript
+
+# JSON config and data
+*.json linguist-language=JSON
+
+# Markdown docs
+*.md linguist-language=Markdown
+
+# PDF generated reports
+*.pdf linguist-documentation=true
+
+# Images
+*.png binary
